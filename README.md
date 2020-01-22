@@ -1,2 +1,0 @@
-# locha
-simple webpage
